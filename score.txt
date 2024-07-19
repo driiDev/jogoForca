@@ -1,0 +1,3 @@
+andri;0
+andri;800
+dri;800
